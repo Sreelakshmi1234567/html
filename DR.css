@@ -1,0 +1,15 @@
+*{
+     color: black;
+    text-align: center; margin-top: 10px;
+}
+.first{
+    padding: 10px;background-color: rgb(177, 173, 173);
+}
+p{
+    font-size: small;
+}
+.two{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
